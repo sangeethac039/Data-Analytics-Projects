@@ -1,22 +1,25 @@
-# 📊 Marketing Campaign Analysis – Power BI
+# 📊  Super Store Sales Analysis– Power BI
 
 1. Objective
-To evaluate and visualize the performance of marketing campaigns across different regions and types (Digital/Traditional).
+To analyze the sales of the products based on provided historical data, this analysis will help you to plan your inventory and business
+processes accordingly. Also, to know the product’s and customer’s behavior.
 
 2. Tools & Techniques
 - Power BI (DAX, Power Query)
-- Slicers, Filters, Bookmarks
-- Role-Level Security by Region and Campaign Type
+- Slicers, Filters, Field parameters,Charts,Navigation 
+- Role-Level Security by Region
 
 3. Key Features
-- Total leads, spend, conversion rate by campaign
-- Region-wise performance comparison
-- Dynamic filtering and storytelling via buttons
-- RLS based on [Region] and [Type]
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Sales Trend Analysis
+- Customer Segmentation
+- Profitability Insights
+- Interactive Dashboards
 
 4. Files Included
 - Power BI (.pbix) file with visuals
-- Sample campaign dataset (optional)
+- Sales dataset (optional)
 
 5. Outcome
-Enabled stakeholders to track campaign ROI and adjust strategies accordingly.
+Identified key sales trends and high/low-performing products and regions, enabling data-driven decisions to improve profitability and optimize inventory.
