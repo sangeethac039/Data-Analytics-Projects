@@ -7,9 +7,9 @@ This repository showcases my end-to-end Data Analytics projects using Power BI, 
 🔷 Projects
 
 1. [ Super Store Sales Analysis– Power BI](./PowerBI/README.md)
-- Analyzed campaign performance across channels and regions
-- Visualized KPIs such as leads, spend, and conversion rates
-- Implemented filters and Role-Level Security
+- We analyze sales data to uncover trends
+- Understand customer behavior
+- Identify top-performing products and regions to support better business decisions
 
 2. [IPL Dashboard – Excel](./Excel/README.md)
 - Created interactive dashboards using PivotTables and charts
