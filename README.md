@@ -6,7 +6,7 @@ This repository showcases my end-to-end Data Analytics projects using Power BI, 
 
 🔷 Projects
 
-1. [Marketing Campaign Analysis – Power BI](./PowerBI/README.md)
+1. [ Super Store Sales Analysis– Power BI](./PowerBI/README.md)
 - Analyzed campaign performance across channels and regions
 - Visualized KPIs such as leads, spend, and conversion rates
 - Implemented filters and Role-Level Security
